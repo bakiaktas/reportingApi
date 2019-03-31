@@ -1,9 +1,20 @@
-# Getting Started
+# Reporting API
 
-### Guides
-The following guides illustrate how to use some features concretely:
+Reporting API gives you access to most of the report data in PSP.
 
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
+#### With this API, you can:
+* Build custom dashboards to display PSP API data.
+* Save time by automating complex reporting tasks.
 
+
+## Executing the application
+
+Navigate to terminal and run the command below:
+
+``` mvn spring-boot:run ```
+
+## Application Deployment
+
+This application is deployed to :
+
+https://mighty-lowlands-95221.herokuapp.com

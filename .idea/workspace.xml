@@ -2,7 +2,124 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="960c4e67-1c04-4364-a6ee-455ed68ae7a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_springsecurity5_3_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportingapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/reportingapi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/ReportingapiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/ReportingapiApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/configuration/RestApiConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/configuration/RestApiConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/controllers/ClientInformationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/controllers/ClientInformationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/controllers/TransactionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/controllers/TransactionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/entities/HttpContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/entities/HttpContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/entities/IResponseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/entities/IResponseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/entities/JsonConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/entities/JsonConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/exceptions/RestApiException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/exceptions/RestApiException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/exceptions/RestApiExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/exceptions/RestApiExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/Agent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/Agent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/ClientInfoRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/ClientInfoRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/ClientInfoResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/ClientInfoResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/CustomerInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/CustomerInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/Fx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/Fx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/IdResolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/IdResolver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/LoginRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/LoginResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/LoginResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/Merchant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/Merchant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/MerchantFx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/MerchantFx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/MerchantTransaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/MerchantTransaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/RestApiError.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/RestApiError.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/TransactionReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/TransactionReport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/TransactionReportRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/TransactionReportRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/TransactionReportResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/TransactionReportResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/TransactionRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/TransactionRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/TransactionResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/models/TransactionResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/services/ClientInformationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/services/ClientInformationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/services/LoginService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/services/LoginService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/services/TokenHandlerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/services/TokenHandlerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/services/TransactionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baktas/reportingapi/services/TransactionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/reportingapi.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/controllers/clientinfo/ClientInfoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/controllers/clientinfo/ClientInfoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/controllers/transaction/TransactionIntegrationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/controllers/transaction/TransactionIntegrationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/controllers/transaction/TransactionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/controllers/transaction/TransactionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/services/clientinfo/ClientInfoIntegrationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/services/clientinfo/ClientInfoIntegrationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/services/clientinfo/ClientInfoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/services/clientinfo/ClientInfoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/services/login/LoginIntegrationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/services/login/LoginIntegrationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/services/login/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/services/login/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/services/transaction/TransactionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/baktas/reportingapi/services/transaction/TransactionTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,8 +135,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="17" selection-start-column="17" selection-end-column="17" />
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -197,7 +314,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554066051551" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554068553573" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -319,7 +436,7 @@
       <workItem from="1553938450757" duration="9224000" />
       <workItem from="1553976075197" duration="4112000" />
       <workItem from="1554040222572" duration="8636000" />
-      <workItem from="1554064623334" duration="1365000" />
+      <workItem from="1554064623334" duration="2964000" />
     </task>
     <servers />
   </component>
@@ -356,7 +473,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28115000" />
+    <option name="totallyTimeSpent" value="29714000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,7 +485,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13304721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -386,9 +503,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49798658" weight="0.3282123" />
       <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.497006" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49785408" visible="true" weight="0.33013698" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49785408" visible="true" weight="0.33058986" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50214595" side_tool="true" visible="true" weight="0.33013698" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50214595" side_tool="true" visible="true" weight="0.33058986" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.47639486" weight="0.34877384" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" sideWeight="0.498503" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
@@ -820,8 +937,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="17" selection-start-column="17" selection-end-column="17" />
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
