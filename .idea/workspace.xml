@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="960c4e67-1c04-4364-a6ee-455ed68ae7a7" name="Default Changelist" comment="" />
+    <list default="true" id="960c4e67-1c04-4364-a6ee-455ed68ae7a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +19,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+                <caret column="17" selection-start-column="17" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -47,6 +49,9 @@
       <find>baki</find>
       <find>factorypath</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -117,6 +122,7 @@
     <option name="width" value="1440" />
     <option name="height" value="816" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -191,7 +197,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554065051639" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554066051551" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -313,7 +319,7 @@
       <workItem from="1553938450757" duration="9224000" />
       <workItem from="1553976075197" duration="4112000" />
       <workItem from="1554040222572" duration="8636000" />
-      <workItem from="1554064623334" duration="1042000" />
+      <workItem from="1554064623334" duration="1365000" />
     </task>
     <servers />
   </component>
@@ -350,7 +356,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27792000" />
+    <option name="totallyTimeSpent" value="28115000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -362,9 +368,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="826" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21959943" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13304721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -380,9 +386,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49798658" weight="0.3282123" />
       <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.497006" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49785408" visible="true" weight="0.32833788" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49785408" visible="true" weight="0.33013698" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50214595" side_tool="true" visible="true" weight="0.32833788" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50214595" side_tool="true" visible="true" weight="0.33013698" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.47639486" weight="0.34877384" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" sideWeight="0.498503" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
@@ -815,7 +821,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+            <caret column="17" selection-start-column="17" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
